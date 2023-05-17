@@ -35,5 +35,6 @@ public class Solution {
         int[] a = {1,2,3,4,9,8,7,6,5};
         sortingByCounting(a);
         System.out.println(Arrays.toString(a));
+        System.out.println("hello");
     }
 }
